@@ -6,6 +6,7 @@
   margin: 0;
   box-sizing: 100vh;
   font-family: Outfit;
+  scroll-behavior: smooth;
 }
 
 body {
